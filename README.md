@@ -1,6 +1,9 @@
 # SQL Complete Roadmap
 
-Welcome to the SQL Complete Roadmap! This guide is designed to help beginners, start the journey of becoming experts in SQL, from foundational concepts to advanced techniques. It includes practical projects, theoretical learning, and practice resources. This roadmap is divided into various sections to provide a structured learning path.
+Welcome to the SQL Complete Roadmap! This guide is designed to help beginners, start the journey of becoming experts in SQL, from foundational concepts to advanced techniques. It 
+includes practical projects, theoretical learning, and practice resources. This roadmap is divided into various sections to provide a structured learning path.
+
+## Some of the links in **SQL Complete Roadmap** may not work properly, you can go to PDF and open links from there.
 
 ## Table of Contents
 
