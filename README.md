@@ -94,15 +94,15 @@ includes practical projects, theoretical learning, and practice resources. This 
 
 ## Watch and Practice SQL
 
-1.   [SQL Technical Interview Prep - YouTube](https://www.youtube.com/watch?v=poQXNp9ItL4)
+1. [SQL Technical Interview Prep - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fm_xpyeN4292wgE542Jy17)
 
-2.  [ALL HackerRank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=AMMiXJ3RBVY)
+2. [ALL HackerRank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=vpzO8QTrgbc)
 
-3.  [EASY SQL LeetCode Interview Questions | Practice (youtube.com)](https://www.youtube.com/watch?v=KlUgxEMqFss)
+3. [EASY SQL LeetCode Interview Questions | Practice (youtube.com)](https://www.youtube.com/watch?v=MprS7kSELms)
 
-4.  [HackerRank SQL Solutions - YouTube](https://www.youtube.com/watch?v=_9HkNYbt3Ys)
+4. [HackerRank SQL Solutions - YouTube](https://www.youtube.com/playlist?list=PLCWQNLd8T4_huFie4p5nPt53tdAvu-U7_)
 
-5.  [SQL Certifications - YouTube](https://www.youtube.com/watch?v=NJWRwz2D8yE)
+5. [SQL Certifications - YouTube](https://www.youtube.com/playlist?list=PLvNOQ5GOhxczvckjJAL-Q6PPRfPEv9mT7)
 
 ---
 
