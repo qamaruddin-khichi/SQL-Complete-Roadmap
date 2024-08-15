@@ -40,89 +40,73 @@ includes practical projects, theoretical learning, and practice resources. This 
 
 ## SQL Theoretical Learning Websites
 
-1. **MySQL Simple Easy Learning - TutorialsPoint**  
-   [MySQL Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/mysql/index.htm)
+1.  [MySQL Tutorial (tutorialspoint.com)](https://www.tutorialspoint.com/mysql/index.htm)
 
-2. **SQL Tutorial – SQLtutorial**  
-   [SQL Tutorial - Essential SQL For The Beginners](https://www.sqltutorial.org/)
+2.  [SQL Tutorial - Essential SQL For The Beginners](https://www.sqltutorial.org/)
 
-3. **MySQL Tutorial - GeeksforGeeks**  
-   [MySQL Tutorial: Master the Essentials of Database Management (geeksforgeeks.org)](https://www.geeksforgeeks.org/mysql-tutorial/)
+3.  [MySQL Tutorial: Master the Essentials of Database Management (geeksforgeeks.org)](https://www.geeksforgeeks.org/mysql-tutorial/)
 
 ## SQL Practice Websites
 
-1. **SQL Practice (Beginner & Advanced)**  
-   [SQLCourse: Beginner & Advanced Interactive SQL Tutorials](https://www.sqlcourse.com/)
+1.  [SQLCourse: Beginner & Advanced Interactive SQL Tutorials](https://www.sqlcourse.com/)
 
-2. **Introduction to SQL**  
-   [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
+2.  [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
 
-3. **SQL Practice**  
-   [Learn SQL - Online SQL Terminal - Practice SQL Queries (sql-practice.com)](https://www.sql-practice.com/)
+3.  [Learn SQL - Online SQL Terminal - Practice SQL Queries (sql-practice.com)](https://www.sql-practice.com/)
 
-4. **MySQL Exercises, Practice, Solution**  
-   [MySQL Exercises, Practice, Solution - w3resource](https://www.w3resource.com/mysql-exercises/)
+4.  [MySQL Exercises, Practice, Solution - w3resource](https://www.w3resource.com/mysql-exercises/)
 
 5. **HackerRank**
+
    1. [HackerRank Certifications](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
    2. [Solve SQL Questions](https://www.hackerrank.com/domains/sql)
    3. [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-6. **W3schools**  
-   [MySQL Tutorial (w3schools.com)](https://www.w3schools.com/mysql/)
+6.  [MySQL Tutorial (w3schools.com)](https://www.w3schools.com/mysql/)
 
 7. **LeetCode**
+
    1. [Problems - LeetCode](https://leetcode.com/problemset/all/)
    2. [SQL 50 - Study Plan - LeetCode](https://leetcode.com/study-plan/sql-50/)
    3. [Top Interview 150 - Study Plan - LeetCode](https://leetcode.com/study-plan/top-interview-150/)
 
 8. **DataLemur**
+
    1. [Free SQL Tutorial for Data Analysts & Data Scientists (datalemur.com)](https://datalemur.com/sql)
    2. [SQL Interview Questions | DataLemur](https://datalemur.com/interview-questions)
 
 9. **StrataScratch**
+
    1. [SQL Data Manipulation for Data Scientists - StrataScratch](https://www.stratascratch.com/)
    2. [SQL Time & Date Manipulation for Data Scientists - StrataScratch](https://www.stratascratch.com/)
 
 ## Watch and Practice SQL
 
-1. **SQL Technical Interview Preparation**  
-   [SQL Technical Interview Prep - YouTube](https://www.youtube.com/watch?v=poQXNp9ItL4)
+1.   [SQL Technical Interview Prep - YouTube](https://www.youtube.com/watch?v=poQXNp9ItL4)
 
-2. **ALL HackerRank SQL Solutions in ONE Video**  
-   [ALL HackerRank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=AMMiXJ3RBVY)
+2.  [ALL HackerRank SQL Solutions in ONE Video! | Easy Medium Hard Problems - YouTube](https://www.youtube.com/watch?v=AMMiXJ3RBVY)
 
-3. **EASY SQL LeetCode Interview Questions**  
-   [EASY SQL LeetCode Interview Questions | Practice (youtube.com)](https://www.youtube.com/watch?v=KlUgxEMqFss)
+3.  [EASY SQL LeetCode Interview Questions | Practice (youtube.com)](https://www.youtube.com/watch?v=KlUgxEMqFss)
 
-4. **HackerRank SQL Solutions**  
-   [HackerRank SQL Solutions - YouTube](https://www.youtube.com/watch?v=_9HkNYbt3Ys)
+4.  [HackerRank SQL Solutions - YouTube](https://www.youtube.com/watch?v=_9HkNYbt3Ys)
 
-5. **HackerRank SQL Certifications (Basics to Advanced)**  
-   [SQL Certifications - YouTube](https://www.youtube.com/watch?v=NJWRwz2D8yE)
+5.  [SQL Certifications - YouTube](https://www.youtube.com/watch?v=NJWRwz2D8yE)
 
 ## Everyday Data Science – YouTube Channel
 
-1. **SQL Practice Questions – 375 videos**  
-   [SQL Practice Questions - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0pMBJ8l5zDJai1cfuWBc8Wv)
+1.  [SQL Practice Questions - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0pMBJ8l5zDJai1cfuWBc8Wv)
 
-2. **LeetCode SQL Easy – 87 videos**  
-   [LeetCode SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0oeAgfwd9gTkRxLx9pC3LSv)
+2.  [LeetCode SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0oeAgfwd9gTkRxLx9pC3LSv)
 
-3. **LeetCode SQL Medium – 78 videos**  
-   [LeetCode SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qNf1Xq69OuyI2dRe4_m8Af)
+3.  [LeetCode SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qNf1Xq69OuyI2dRe4_m8Af)
 
-4. **LeetCode SQL Hard – 11 videos**  
-   [LeetCode SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0p2fZRaR5T2Uk5Al53wx-gN)
+4.  [LeetCode SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0p2fZRaR5T2Uk5Al53wx-gN)
 
-5. **DataLemur SQL Easy – 19 videos**  
-   [DataLemur SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qTDx1KBlwbBFgJhYdfN6Wr)
+5.  [DataLemur SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qTDx1KBlwbBFgJhYdfN6Wr)
 
-6. **DataLemur SQL Medium – 12 videos**  
-   [DataLemur SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0rp1P5ViFfJmDCsKMB1v4wx)
+6.  [DataLemur SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0rp1P5ViFfJmDCsKMB1v4wx)
 
-7. **DataLemur SQL Hard – 9 videos**  
-   [DataLemur SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qYoJFlWlgyiwUwnFj_R-pR)
+7.  [DataLemur SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qYoJFlWlgyiwUwnFj_R-pR)
    
 ---
 
