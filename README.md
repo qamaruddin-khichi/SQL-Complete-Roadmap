@@ -20,30 +20,23 @@ includes practical projects, theoretical learning, and practice resources. This 
 
 ### SQL Course for Beginners
 
-1. **SQL Course for Beginners – Playlist**  
-   [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PL0zysOflRCek0ff0dAw5HBlh8ueRBCj2E)
+1. [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PL0zysOflRCek0ff0dAw5HBlh8ueRBCj2E)
 
-2. **SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO**  
-   [SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO - YouTube](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+2. [SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO - YouTube](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 
 ### SQL (Basics to Advanced)
 
-1. **MySQL Basic Tutorial Series**  
-   [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
 
-2. **MySQL Intermediate Tutorial Series**  
-   [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxXq1M8V-R9TKK2JXZnrA5yW)
+2. [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxXq1M8V-R9TKK2JXZnrA5yW)
 
-3. **MySQL Advanced Tutorial Series**  
-   [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxaE55DKtoYhdBQa9zSDHhEL)
+3. [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxaE55DKtoYhdBQa9zSDHhEL)
 
 ### SQL Projects
 
-1. **Data Cleaning in MySQL - Full Project**  
-   [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=V1pO8QXi7aI)
+  1. [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=V1pO8QXi7aI)
 
-2. **MySQL Exploratory Data Analysis – Full Project**  
-   [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=YAJWiCHM6QI)
+  2. [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=YAJWiCHM6QI)
 
 ## SQL Theoretical Learning Websites
 
