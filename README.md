@@ -3,7 +3,11 @@
 Welcome to the SQL Complete Roadmap! This guide is designed to help beginners, start the journey of becoming experts in SQL, from foundational concepts to advanced techniques. It 
 includes practical projects, theoretical learning, and practice resources. This roadmap is divided into various sections to provide a structured learning path.
 
+---
+
 ## Some of the links in **SQL Complete Roadmap** may not work properly, you can go to PDF and open links from there.
+
+---
 
 ## Table of Contents
 
@@ -16,27 +20,31 @@ includes practical projects, theoretical learning, and practice resources. This 
 - [Watch and Practice SQL](#watch-and-practice-sql)
 - [Everyday Data Science – YouTube Channel](#everyday-data-science--youtube-channel)
 
+---
+
 ## SQL Videos
 
 ### SQL Course for Beginners
 
-1. [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PL0zysOflRCek0ff0dAw5HBlh8ueRBCj2E)
+1. [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)
 
-2. [SQL Tutorial for Beginners [Ultimate Full Course] - From Zero to HERO - YouTube](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+2. [SQL Tutorial for Beginners [Ultimate Full Course] - YouTube](https://www.youtube.com/watch?v=NTgejLheGeU)
 
 ### SQL (Basics to Advanced)
 
-1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
 
-2. [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxXq1M8V-R9TKK2JXZnrA5yW)
+2. [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
 
-3. [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLjQo0sojbbxaE55DKtoYhdBQa9zSDHhEL)
+3. [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
 
 ### SQL Projects
 
-  1. [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=V1pO8QXi7aI)
+1. [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=4UltKCnnnTA)
 
-  2. [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=YAJWiCHM6QI)
+2. [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=QYd-RtK58VQ)
+
+---
 
 ## SQL Theoretical Learning Websites
 
@@ -45,6 +53,8 @@ includes practical projects, theoretical learning, and practice resources. This 
 2.  [SQL Tutorial - Essential SQL For The Beginners](https://www.sqltutorial.org/)
 
 3.  [MySQL Tutorial: Master the Essentials of Database Management (geeksforgeeks.org)](https://www.geeksforgeeks.org/mysql-tutorial/)
+
+---
 
 ## SQL Practice Websites
 
@@ -80,6 +90,8 @@ includes practical projects, theoretical learning, and practice resources. This 
    1. [SQL Data Manipulation for Data Scientists - StrataScratch](https://www.stratascratch.com/)
    2. [SQL Time & Date Manipulation for Data Scientists - StrataScratch](https://www.stratascratch.com/)
 
+---
+
 ## Watch and Practice SQL
 
 1.   [SQL Technical Interview Prep - YouTube](https://www.youtube.com/watch?v=poQXNp9ItL4)
@@ -91,6 +103,8 @@ includes practical projects, theoretical learning, and practice resources. This 
 4.  [HackerRank SQL Solutions - YouTube](https://www.youtube.com/watch?v=_9HkNYbt3Ys)
 
 5.  [SQL Certifications - YouTube](https://www.youtube.com/watch?v=NJWRwz2D8yE)
+
+---
 
 ## Everyday Data Science – YouTube Channel
 
