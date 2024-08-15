@@ -5,10 +5,6 @@ includes practical projects, theoretical learning, and practice resources. This 
 
 ---
 
-## Some of the links in **SQL Complete Roadmap** may not work properly, you can go to PDF and open links from there.
-
----
-
 ## Table of Contents
 
 - [SQL Videos](#sql-videos)
@@ -108,19 +104,19 @@ includes practical projects, theoretical learning, and practice resources. This 
 
 ## Everyday Data Science – YouTube Channel
 
-1.  [SQL Practice Questions - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0pMBJ8l5zDJai1cfuWBc8Wv)
+1. [SQL Practice Questions - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-ws1ouwxY_yn8XaPCEoJiZ)
 
-2.  [LeetCode SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0oeAgfwd9gTkRxLx9pC3LSv)
+2. [LeetCode SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B_V2BPwlXOmrbO4a-a43Eg5)
 
-3.  [LeetCode SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qNf1Xq69OuyI2dRe4_m8Af)
+3. [LeetCode SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B93ewzBITsarfxNxJD4XJHd)
 
-4.  [LeetCode SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0p2fZRaR5T2Uk5Al53wx-gN)
+4. [LeetCode SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B9M7Rx5BrZwZqSBP2_IzRMA)
 
-5.  [DataLemur SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qTDx1KBlwbBFgJhYdfN6Wr)
+5. [DataLemur SQL Easy - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-F6Ds1p85wLYxPGq1lAsfk)
 
-6.  [DataLemur SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0rp1P5ViFfJmDCsKMB1v4wx)
+6. [DataLemur SQL Medium - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-WGRZGsl3SFlHxl49MOfKP)
 
-7.  [DataLemur SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLQguDFOxxf0qYoJFlWlgyiwUwnFj_R-pR)
+7. [DataLemur SQL Hard - YouTube](https://www.youtube.com/playlist?list=PLtfxzVLWb-B-4zEHGsxoCacaY4QfSVqh8)
    
 ---
 
