@@ -1,12 +1,8 @@
 # SQL Complete Roadmap
 
-Welcome to the SQL Complete Roadmap! This guide is designed to help beginners, start the journey of becoming experts in SQL, from foundational concepts to advanced techniques. It 
-includes practical projects, theoretical learning, and practice resources. This roadmap is divided into various sections to provide a structured learning path.
-
----
-
 ## Table of Contents
 
+- [SQL Introduction](#sql-introduction)
 - [SQL Videos](#sql-videos)
   - [SQL Course for Beginners](#sql-course-for-beginners)
   - [SQL (Basics to Advanced)](#sql-basics-to-advanced)
@@ -15,6 +11,14 @@ includes practical projects, theoretical learning, and practice resources. This 
 - [SQL Practice Websites](#sql-practice-websites)
 - [Watch and Practice SQL](#watch-and-practice-sql)
 - [Everyday Data Science – YouTube Channel](#everyday-data-science--youtube-channel)
+- [Conclusion](#conclusion)
+- [Contact Details](#contact-details)
+
+---
+
+## SQL Introduction
+
+Welcome to the SQL (Structured Query Language) Complete Roadmap! SQL is a powerful programming language used for managing and querying relational databases. It allows data analysts to efficiently retrieve, manipulate, and analyze large datasets stored in databases. SQL is essential for tasks like data extraction, filtering, and aggregation, making it a crucial tool for data-driven decision-making. Learning SQL enables data analysts to handle complex data operations, work with large volumes of data, and integrate with other tools like Excel, Power BI, and Python, greatly enhancing their ability to analyze and interpret data effectively. This guide is designed to help beginners, start the journey of becoming experts in SQL, from foundational concepts to advanced techniques. It includes practical projects, theoretical learning, and practice resources. This roadmap is divided into various sections to provide a structured learning path.
 
 ---
 
@@ -120,4 +124,14 @@ includes practical projects, theoretical learning, and practice resources. This 
    
 ---
 
+## Conclusion
+
 By following this roadmap, you'll have enough knowledge and skills necessary to excel in SQL and build a strong foundation for your career in data analysis. Happy learning!
+
+---
+
+## Contact Details
+
+**Call:** +92-318-815444-1  
+**Email:** qamaruddinkhichi123@gmail.com  
+**LinkedIn:** [linkedin.com/in/qamaruddin-khichi/](https://www.linkedin.com/in/qamaruddin-khichi/)
