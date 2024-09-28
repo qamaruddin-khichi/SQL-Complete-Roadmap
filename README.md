@@ -30,6 +30,9 @@ Welcome to the SQL (Structured Query Language) Complete Roadmap! SQL is a powerf
 
 2. [SQL Tutorial for Beginners [Ultimate Full Course] - YouTube](https://www.youtube.com/watch?v=NTgejLheGeU)
 
+3. [Advanced SQL Course  For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)
+
+
 ### SQL (Basics to Advanced)
 
 1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
