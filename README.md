@@ -4,9 +4,6 @@
 
 - [SQL Introduction](#sql-introduction)
 - [SQL Videos](#sql-videos)
-  - [SQL Course for Beginners](#sql-course-for-beginners)
-  - [SQL (Basics to Advanced)](#sql-basics-to-advanced)
-  - [SQL Projects](#sql-projects)
 - [SQL Theoretical Learning Websites](#sql-theoretical-learning-websites)
 - [SQL Practice Websites](#sql-practice-websites)
 - [Watch and Practice SQL](#watch-and-practice-sql)
@@ -26,26 +23,15 @@ Welcome to the SQL (Structured Query Language) Complete Roadmap! SQL is a powerf
 
 ### SQL Course for Beginners
 
-1. [SQL Course | For Beginners - YouTube](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)
+1. [SQL Tutorial for Beginners [Ultimate Full Course]](https://www.youtube.com/watch?v=NTgejLheGeU)  
+An ultimate guide to SQL, covering all the basics in one full-length tutorial.
 
-2. [SQL Tutorial for Beginners [Ultimate Full Course] - YouTube](https://www.youtube.com/watch?v=NTgejLheGeU)
+2. [SQL Course | Beginners to Advanced](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)  
+A step-by-step SQL course that takes you from beginner to advanced level.
 
-3. [Advanced SQL Course  For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)
+3. [Advanced SQL Course For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)  
+Dive into advanced SQL techniques designed specifically for data analytics.
 
-
-### SQL (Basics to Advanced)
-
-1. [MySQL Basics Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8Fq6RBY-3MQ5MCXB5qxb8VA)
-
-2. [Intermediate MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm)
-
-3. [Advanced MySQL Tutorial Series - YouTube](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GjfgvWlreA6BvTvazz8RHG)
-
-### SQL Projects
-
-1. [Data Cleaning in MySQL | Full Project](https://www.youtube.com/watch?v=4UltKCnnnTA)
-
-2. [MySQL Exploratory Data Analysis | Full Project](https://www.youtube.com/watch?v=QYd-RtK58VQ)
 
 ---
 
