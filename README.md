@@ -21,17 +21,11 @@ Welcome to the SQL (Structured Query Language) Complete Roadmap! SQL is a powerf
 
 ## SQL Videos
 
-### SQL Course for Beginners
-
 1. [SQL Tutorial for Beginners [Ultimate Full Course]](https://www.youtube.com/watch?v=NTgejLheGeU)  
-An ultimate guide to SQL, covering all the basics in one full-length tutorial.
 
-2. [SQL Course | Beginners to Advanced](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZDdRInCl7wfOO8yZqYX5hO)  
-A step-by-step SQL course that takes you from beginner to advanced level.
+2. [SQL Course | Beginners to Advanced](https://www.youtube.com/watch?v=OT1RErkfLNQ)  
 
-3. [Advanced SQL Course For Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)  
-Dive into advanced SQL techniques designed specifically for data analytics.
-
+3. [Advanced SQL Course for Data Analytics](https://www.youtube.com/playlist?list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe)  
 
 ---
 
